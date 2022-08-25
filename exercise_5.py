@@ -1,3 +1,4 @@
+# finding common numbers within two separate lists, and printing a new list with those duplicate numbers
 
 def dupList():
     a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
