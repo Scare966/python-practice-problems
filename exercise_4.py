@@ -1,3 +1,5 @@
+# print out a list of numbers that can be divided into a number given by the users input
+
 def divisor():
     divNum = int(input("What is your number: "))
     
